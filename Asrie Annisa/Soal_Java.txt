@@ -21,6 +21,5 @@ Petunjuk:
 - Anda cukup membuat program sampai sebatas proses yang sudah dispesifikasi dalam soal, jangan berlebihan membuatnya (dan jangan sampai kurang juga).
 
 
-Isi Jawaban anda pada Folder Java yang sudah kami sediakan. 
 
 Anda kami beri waktu sampai hari hari Sabtu, tanggal 22 April 2017 pukul 23.59 WIB, untuk menyelesaikan tugas ini. Bila ada kesulitan atau pertanyaan, segera tanyakan ke kami.
