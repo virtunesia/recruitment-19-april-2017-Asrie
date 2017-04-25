@@ -1,5 +1,5 @@
 
-public class Pemesanan {
+public class Pemesanan implements Check_in{
 
 	
 		private String id_pesan;
@@ -22,7 +22,13 @@ public class Pemesanan {
 			this.id_pesan = id;
 		}
 		
-		public void Check_in() {
+		public void Check_in(String id_pesan, String tgl_pesan) {
+			
+		}
+
+
+		public void check_in(String id_pesan, String tgl_pesan) {
+			// TODO Auto-generated method stub
 			
 		}
 		
